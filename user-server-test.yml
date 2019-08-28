@@ -1,6 +1,6 @@
 spring:
   application:
-    name: user-server-prod
+    name: user-server
   #上传文件和数据大小限制，过去是http
   servlet:
     multipart:
